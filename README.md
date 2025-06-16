@@ -1,34 +1,3 @@
-Skip to content
-Navigation Menu
-guiltycircle
-About-Me
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
- 
-...
- 
-There isn’t anything to compare.
-main and master are entirely different commit histories.
-
- Showing  with 230 additions and 0 deletions.
- Empty file added0  
-About me.txt
-Empty file.
- 230 changes: 230 additions & 0 deletions230  
-index.html
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,230 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -259,15 +228,3 @@ Original file line number	Diff line number	Diff line change
     </div>
 </body>
 </html> 
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Editing About-Me/README.md at main · guiltycircle/About-Me
